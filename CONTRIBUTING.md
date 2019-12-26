@@ -1,3 +1,6 @@
+Bitte sende eine Email an: lieblings_kollege@firma.com
+(Git Kurs Übung...)
+
 # Contributing
 
 Your contributions are always welcome!
